@@ -1,94 +1,90 @@
-# Hi, I'm Pravin Maleya
+# Hi, I'm Pravin Maleya 
 
-### Data Science | Machine Learning | Building Production-Ready Data Applications
+### Data Science | Machine Learning | Data Engineering
 
-I'm passionate about using data to solve real-world business problems through machine learning, analytics, and scalable data solutions. My projects focus on the complete data science workflow—from data exploration and feature engineering to model deployment with APIs, Docker, and cloud platforms.
+I'm a data-focused developer building projects to strengthen my skills in **data science, machine learning, and data engineering**.
+
+I enjoy working through the full process of turning data into useful solutions — from data cleaning and exploratory analysis to feature engineering, model evaluation, and deployment.
+
+Currently, I'm focusing on building projects, strengthening my fundamentals, and learning how machine learning systems are developed and served in practical applications.
 
 ---
 
-## About Me
+## What I'm Working On
 
-* Building end-to-end Machine Learning applications
-* Python enthusiast with a strong focus on data
-* Developing production-ready APIs using FastAPI
-* Containerizing applications with Docker
-* Deploying ML solutions to the cloud
-* Currently expanding my skills in Data Engineering
+- Building end-to-end machine learning projects
+- Learning practical machine learning workflows
+- Exploring model deployment and APIs with FastAPI
+- Developing my data and AI engineering skills
 
 ---
 
 ## Tech Stack
 
-### Programming
+### Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Data Science
+### Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 
-### Backend & APIs
+### APIs & Databases
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Databases
+### Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Deployment & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Telco Customer Churn Prediction
+### Water Pump Prediction
 
-An end-to-end Machine Learning application that predicts customer churn using Scikit-learn pipelines, FastAPI, Docker, automated testing, and Render deployment.
+Machine learning project for predicting water pump functionality using infrastructure and geographic features.
 
-**Tech:** Python • Scikit-learn • FastAPI • Docker • Render
-
----
-
-### Healthcare Analytics System
-
-A machine learning pipeline for predicting patient test results with automated preprocessing, PostgreSQL integration, and production-ready deployment.
-
-**Tech:** Python • PostgreSQL • Scikit-learn • FastAPI
+**Focus:** Classification • Data Cleaning • Feature Engineering • Machine Learning
 
 ---
 
-### Tanzania Water Pump Prediction API
+### Telco Customer Churn
 
-A predictive maintenance application that exposes machine learning predictions through a FastAPI REST API.
+Machine learning project for predicting customer churn using customer demographics, services, account information, and usage patterns.
 
-**Tech:** Python • FastAPI • Machine Learning
+**Focus:** Classification • Exploratory Data Analysis • Machine Learning
+
+---
+
+### Credit Risk Prediction
+
+End-to-end machine learning project for predicting loan defaults using loan characteristics, lender information, customer borrowing history, and Kenyan economic indicators.
+
+The project includes model comparison, feature engineering, threshold tuning, model artifact management, and a FastAPI prediction API.
+
+**Focus:** Classification • Feature Engineering • XGBoost • Model Evaluation • FastAPI
 
 ---
 
 ## Currently Learning
 
-* Advanced Machine Learning
-* Data Engineering
-* Docker & Cloud Deployment
-* Building scalable data pipelines
-* Claude code
-  
+- Advanced Machine Learning
+- Data Engineering
+- Cloud and data platforms
+- Machine learning deployment
+- Building reliable data pipelines
+
 ---
 
-## Connect With Me
+## Connect
 
-* GitHub: (https://github.com/PravinMaleya)
-* LinkedIn: (https://www.linkedin.com/in/pravin-maleya-671150152/)
+- GitHub: [Pravin Maleya](https://github.com/PravinMaleya)
+- LinkedIn: [Pravin Maleya](https://www.linkedin.com/in/pravin-maleya-671150152/)
 
-
-Thanks for stopping by! Feel free to explore my repositories and connect with me.
+---
